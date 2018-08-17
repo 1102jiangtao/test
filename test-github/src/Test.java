@@ -5,5 +5,6 @@ public class Test {
 		System.out.println("Test.main()33333www");
 		System.out.println("wwww1");
 		System.out.println("x1");
+		System.out.println("wwww221");
 	}
 }
